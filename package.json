@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:gavro/gulp-iconify.git"
+    "url": "git@github.com:stschaefer/gulp-iconify.git"
   },
   "main": "index.js",
   "dependencies": {
